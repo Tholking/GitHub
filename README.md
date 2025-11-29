@@ -1,2 +1,2 @@
 # GitHub
-Readme file
+Readme file that contains important info. 
